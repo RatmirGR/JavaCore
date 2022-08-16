@@ -1,6 +1,6 @@
 # JavaCore
 
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Data%20Types">Data Types, Operators, String</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Data%20Types">Data Types, Operators, String, Arrays</a></p>
 <ul>
   <li>Variables</li>
   <li>Primitive types</li>
