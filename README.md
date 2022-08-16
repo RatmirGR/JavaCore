@@ -10,6 +10,7 @@
   <li>String</li>
   <li>StringBuffer</li>
   <li>StringBuilder</li>
+  <li>Arrays</li>
 </ul>
 <br/>
 
