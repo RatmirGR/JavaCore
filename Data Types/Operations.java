@@ -1,5 +1,3 @@
-package Variable.projects;
-
 public class Operations {
 
     /* 1) поразрядные операции*/
