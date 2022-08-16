@@ -1,12 +1,16 @@
 # JavaCore
 
-<p> - <a href="https://github.com/RatmirW/">Variables</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Variables">Primitive types</a></p>
 <ul>
-  <li>Data types</li>
+  <li>Variables</li>
+  <li>Primitive types</li>
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
+  <li>String, StringBuffer, StringBuilder</li>
 </ul>
+<br/>
+
 
 <!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
 <p> - <a href="https://github.com/RatmirW/">Operations</a></p>
