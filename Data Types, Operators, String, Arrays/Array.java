@@ -223,7 +223,7 @@ public class Array {
 
         /* выполнение двоичного поиска значения -9*/
         int index = Arrays.binarySearch(array, -9);
-        System.out.println("значение -9 находится на позиции: "+index);
+        System.out.println("значение -9 находится на позиции: " + index);
     }
 
     static void display(int array[]){
