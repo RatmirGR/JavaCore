@@ -1,6 +1,6 @@
 # JavaCore
 
-<p> - <a href="https://github.com/RatmirW/">Variables</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Variables">Variables</a></p>
 <ul>
   <li>Data types</li>
   <li>Literals</li>
