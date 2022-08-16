@@ -1,7 +1,9 @@
 # JavaCore
 
 <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
-
+<ul>
+  <li></li>
+</ul>
 
 <!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
 <p> - <a href="https://github.com/RatmirW/">Operations</a></p>
