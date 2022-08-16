@@ -3,9 +3,11 @@
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Variables">Primitive types</a></p>
 <ul>
   <li>Variables</li>
+  <li>Primitive types</li>
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
+  <li>String, StringBuffer, StringBuilder</li>
 </ul>
 <br/>
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Variables">String Handling</a></p>
