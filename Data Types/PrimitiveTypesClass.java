@@ -1,5 +1,3 @@
-package Variable.projects;
-
 /* Примитивные типы*/
 public class PrimitiveTypesClass {
     public static void main(String[] args) {
