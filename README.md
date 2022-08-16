@@ -7,7 +7,9 @@
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
-  <li>String, StringBuffer, StringBuilder</li>
+  <li>String</li>
+  <li>StringBuffer</li>
+  <li>StringBuilder</li>
 </ul>
 <br/>
 
