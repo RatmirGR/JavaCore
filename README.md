@@ -2,10 +2,11 @@
 
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Variables">Variables</a></p>
 <ul>
-  <li>Data types</li>
+  <li>Primitive types</li>
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
+  <li>String></li>
 </ul>
 
 <!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
