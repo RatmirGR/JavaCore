@@ -2,6 +2,7 @@
 
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Variables">Primitive types</a></p>
 <ul>
+  <li>Variables</li>
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
