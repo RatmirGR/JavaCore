@@ -6,7 +6,7 @@
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
-  <li>String></li>
+  <li>String</li>
 </ul>
 
 <!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
