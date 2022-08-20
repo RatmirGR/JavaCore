@@ -9,7 +9,7 @@
   <li>Wrapper</li>
 </ul>
 <br/>
-<p> - <a href="">Interface, Class, Constructor, Method, Enum</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method%2C%20Enum">Interface, Class, Constructor, Method, Enum</a></p>
 <ul>
   <li>Interface</li>
   <li>Class</li>
@@ -18,7 +18,7 @@
   <li>Enum</li>
 </ul>
 <br/>
-<p> - <a href="">OOP, Object, String, Arrays</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/OOP%2C%20Object%2C%20String%2C%20Arrays">OOP, Object, String, Arrays</a></p>
 <ul>
   <li>OOP</li>
   <li>Object</li>
