@@ -1,6 +1,6 @@
 # JavaCore
 
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Data%20Types%2C%20Operators%2C%20String%2C%20Arrays">Data Types, Operators, Wrapper</a></p>
+<p> - <a href="">Data Types, Operators, Wrapper</a></p>
 <ul>
   <li>Variables</li>
   <li>Primitive types</li>
@@ -9,7 +9,7 @@
   <li>Wrapper</li>
 </ul>
 <br/>
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">Interface, Class, Constructor, Method, Enum</a></p>
+<p> - <a href="">Interface, Class, Constructor, Method, Enum</a></p>
 <ul>
   <li>Interface</li>
   <li>Class</li>
@@ -18,7 +18,7 @@
   <li>Enum</li>
 </ul>
 <br/>
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">OOP, Object, String, Arrays</a></p>
+<p> - <a href="">OOP, Object, String, Arrays</a></p>
 <ul>
   <li>OOP</li>
   <li>Object</li>
@@ -35,13 +35,40 @@
   <li>Exception Handling</li>
 </ul>
 <br/>
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">Generics, Lamba Expressions, Modules</a></p>
+<p> - <a href="">Generics, Lamba Expressions, Modules</a></p>
 <ul>
   <li>Generics</li>
   <li>Lamba Expressions</li>
   <li>Modules</li>
 </ul>
-
+<br/>
+<p> - <a href="">Collections</a></p>
+<ul>
+  <li>Collection</li>
+  <li>List</li>
+  <li>Set</li>
+  <li>SortedSet</li>
+  <li>NavigableSet</li>
+  <li>Queue</li>
+  <li>Dequeue</li>
+  <li>--------</li>
+  <li>ArrayList</li>
+  <li>LinkedList</li>
+  <li>HashSet</li>
+  <li>LinkedHashSet</li>
+  <li>TreeSet</li>
+  <li>PriorityQueue</li>
+  <li>ArrayDeque</li>
+  <li>EnumSet</li>
+  <li>Map</li>
+</ul>
+<br/>
+<p> - <a href="">Multithreading</a></p>
+<ul>
+  <li>Threads</li>
+  <li>Thread Priorities</li>
+  <li>Synchronization</li>
+</ul>
 <!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
 <p> - <a href="https://github.com/RatmirW/">Operations</a></p>
 <p> - <a href="https://github.com/RatmirW/">Control statements</a></p>
