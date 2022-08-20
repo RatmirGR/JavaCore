@@ -1,5 +1,3 @@
-package Variable.projects;
-
 /* пример использования целочисленных типов*/
 enum Type{
     SECOND, MINUTE, HOUR, DAY
