@@ -52,6 +52,7 @@
   <li>Lang</li>
   <li>Util</li>
   <li>Networking</li>
+  <li>JavaBeans</li>
   <li>Servlets</li>
 </ul>
 <br/>
@@ -82,5 +83,5 @@
   <li>Event Handling</li>
   <li>AWT</li>
   <li>Swing</li>
-  <li>JavaFx</li>
+  <li>JavaFX</li>
 </ul>
