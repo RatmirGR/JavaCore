@@ -1,7 +1,3 @@
-package Array.projects;
-
-import java.util.Arrays;
-
 public class Array {
 
     /* 1) объявление ссылочной переменной массива*/

@@ -1,5 +1,3 @@
-package Variable.projects;
-
 public class Wrappers {
 
     /* 1) оболочки типов*/

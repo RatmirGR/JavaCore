@@ -1,37 +1,87 @@
 # JavaCore
 
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Data%20Types%2C%20Operators%2C%20String%2C%20Arrays">Data Types, Operators, String, Arrays</a></p>
+<p> - <a href="">Data Types, Operators, Wrapper</a></p>
 <ul>
   <li>Variables</li>
   <li>Primitive types</li>
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
-  <li>String</li>
-  <li>StringBuffer</li>
-  <li>StringBuilder</li>
-  <li>Arrays</li>
 </ul>
 <br/>
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Package%2C%20Class%2C%20Constructor%2C%20Method">Class, Constructor, Method</a></p>
+<p> - <a href="">Interface, Class, Constructor, Method, Enum</a></p>
 <ul>
+  <li>Interface</li>
   <li>Class</li>
   <li>Constructor</li>
   <li>Method</li>
+  <li>Enum</li>
 </ul>
 <br/>
-
-
-<!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
-<p> - <a href="https://github.com/RatmirW/">Operations</a></p>
-<p> - <a href="https://github.com/RatmirW/">Control statements</a></p>
-<p> - <a href="https://github.com/RatmirW/">Classes, objects, and methods</a></p>
-<p> - <a href="https://github.com/RatmirW/">Method overloading and overriding</a></p>
-<p> - <a href="https://github.com/RatmirW/">Inheritance</a></p>
-<p> - <a href="https://github.com/RatmirW/">Interfaces and packages</a></p>
-<p> - <a href="https://github.com/RatmirW/">Exception handling</a></p>
-<p> - <a href="https://github.com/RatmirW/">Multithreaded programming</a></p>
-<p> - <a href="https://github.com/RatmirW/">Enumerations, autoboxing, and annotations</a></p>
-<p> - <a href="https://github.com/RatmirW/">I/O, try statement with resources and other issues</a></p>
-<p> - <a href="https://github.com/RatmirW/">Generics</a></p>
-<p> - <a href="https://github.com/RatmirW/">Lambda expressions</a></p> -->
+<p> - <a href="">OOP, Object, String, Arrays</a></p>
+<ul>
+  <li>OOP</li>
+  <li>Object</li>
+  <li>Arrays</li>
+  <li>String</li>
+  <li>StringBuffer</li>
+  <li>StringBuilder</li>
+</ul>
+<br/>
+<p> - <a href="">Streams I/O, Try-with-Resources, Exception Handling, Multithreading</a></p>
+<ul>
+  <li>Stream Basics</li>
+  <li>NIO</li>
+  <li>Try-with-Resources</li>
+  <li>Exception Handling</li>
+  <li>Threads</li>
+  <li>Thread Priorities</li>
+  <li>Synchronization</li>
+  <li>Concurrency Utilities</li>
+  <li>Stream API</li>
+</ul>
+<br/>
+<p> - <a href="">Generics, Lamba Expressions, Modules, Annotations, Date</a></p>
+<ul>
+  <li>Generics</li>
+  <li>Lamba Expressions</li>
+  <li>Modules</li>
+  <li>Annotations</li>
+  <li>Regex</li>
+  <li>Date</li>
+  <li>Lang</li>
+  <li>Util</li>
+  <li>Networking</li>
+  <li>JavaBeans</li>
+  <li>Servlets</li>
+</ul>
+<br/>
+<p> - <a href="">Collections</a></p>
+<ul>
+  <li>Collection</li>
+  <li>List</li>
+  <li>Set</li>
+  <li>SortedSet</li>
+  <li>NavigableSet</li>
+  <li>Queue</li>
+  <li>Dequeue</li>
+  <li>--------</li>
+  <li>ArrayList</li>
+  <li>LinkedList</li>
+  <li>HashSet</li>
+  <li>LinkedHashSet</li>
+  <li>TreeSet</li>
+  <li>PriorityQueue</li>
+  <li>ArrayDeque</li>
+  <li>EnumSet</li>
+  <li>--------</li>
+  <li>Map</li>
+</ul>
+<br/>
+<p> - <a href="">GPU, Event Handling</a></p>
+<ul>
+  <li>Event Handling</li>
+  <li>AWT</li>
+  <li>Swing</li>
+  <li>JavaFX</li>
+</ul>

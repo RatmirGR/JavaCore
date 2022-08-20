@@ -1,5 +1,3 @@
-package Method;
-
 public class Methods {
 
     /* 1) передача данных, с примитивным типом параметра*/

@@ -1,5 +1,3 @@
-package Variable.projects;
-
 /* области действия - блоки*/
 class NameClass{ // блок класса
 

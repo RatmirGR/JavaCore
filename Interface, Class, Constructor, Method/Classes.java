@@ -1,5 +1,3 @@
-package Class.Projects;
-
 public class Classes {
 
     /* 1) объявление класса*/
