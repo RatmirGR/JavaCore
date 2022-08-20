@@ -155,7 +155,7 @@ public class ConstructClass {
 
     /* 7) порядок выполнения конструкторов при наследовании*/
 
-    void exampleMethod7() {
+    void exampleMethod7(){
 
         /* сначало вызывается конструктор класса Parent*/
         class Parent{
