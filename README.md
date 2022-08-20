@@ -1,13 +1,12 @@
 # JavaCore
 
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Data%20Types%2C%20Operators%2C%20String%2C%20Arrays">Data Types, Operators, Arrays</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Data%20Types%2C%20Operators%2C%20String%2C%20Arrays">Data Types, Operators, Wrapper</a></p>
 <ul>
   <li>Variables</li>
   <li>Primitive types</li>
   <li>Literals</li>
   <li>Operators</li>
   <li>Wrapper</li>
-  <li>Arrays</li>
 </ul>
 <br/>
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">Interface, Class, Constructor, Method, Enum</a></p>
