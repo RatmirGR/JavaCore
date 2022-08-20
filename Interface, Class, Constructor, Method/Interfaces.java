@@ -1,5 +1,3 @@
-package Interface;
-
 /* 1) определение интерфейса*/
 
 interface Interface1 {
