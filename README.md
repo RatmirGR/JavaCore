@@ -35,6 +35,13 @@
   <li>Exception Handling</li>
 </ul>
 <br/>
+<p> - <a href="">Multithreading</a></p>
+<ul>
+  <li>Threads</li>
+  <li>Thread Priorities</li>
+  <li>Synchronization</li>
+</ul>
+<br/>
 <p> - <a href="">Generics, Lamba Expressions, Modules</a></p>
 <ul>
   <li>Generics</li>
@@ -62,13 +69,6 @@
   <li>EnumSet</li>
   <li>--------</li>
   <li>Map</li>
-</ul>
-<br/>
-<p> - <a href="">Multithreading</a></p>
-<ul>
-  <li>Threads</li>
-  <li>Thread Priorities</li>
-  <li>Synchronization</li>
 </ul>
 <!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
 <p> - <a href="https://github.com/RatmirW/">Operations</a></p>
