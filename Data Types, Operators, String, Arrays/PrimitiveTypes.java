@@ -1,7 +1,7 @@
-package Variable.projects;
+package Variable;
 
 /* Примитивные типы*/
-public class PrimitiveTypesClass {
+public class PrimitiveTypes {
     public static void main(String[] args) {
         System.out.println("Примитивные типы - 8 типов");
 

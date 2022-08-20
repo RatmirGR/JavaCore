@@ -1,4 +1,4 @@
-package String.Projects;
+package String;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class StringClass {
+public class Strings {
 
     /* 1) пример 1 создания и заполнения экземпляра класса String*/
 
@@ -440,7 +440,7 @@ public class StringClass {
         System.out.println(s2);
         String s3 = String.valueOf("text");
         System.out.println(s3);
-        String s4 = String.valueOf(new StringClass());
+        String s4 = String.valueOf(new Strings());
         System.out.println(s4);
         char[] ch = {'a', 'b', 'c', 'd'};
         String s5 = String.valueOf(ch);
@@ -600,24 +600,24 @@ public class StringClass {
         System.out.println("метод lastIndexOf() - индекс последнего вхождения: "+i);
     }
 
-    public static void main(StringClass[] args) {
-        StringClass stringClass = new StringClass();
-        stringClass.exampleMethod1();
-        stringClass.exampleMethod2();
-        stringClass.exampleMethod3();
-        stringClass.exampleMethod4();
-        stringClass.exampleMethod5();
-        stringClass.exampleMethod6();
-        stringClass.exampleMethod7();
-        stringClass.exampleMethod8();
-        stringClass.exampleMethod9();
-        stringClass.exampleMethod10();
-        stringClass.exampleMethod11();
-        stringClass.exampleMethod12();
-        stringClass.exampleMethod13();
-        stringClass.exampleMethod14();
-        stringClass.exampleMethod15();
-        stringClass.exampleMethod16();
-        stringClass.exampleMethod17();
+    public static void main(String[] args) {
+        Strings string = new Strings();
+        string.exampleMethod1();
+        string.exampleMethod2();
+        string.exampleMethod3();
+        string.exampleMethod4();
+        string.exampleMethod5();
+        string.exampleMethod6();
+        string.exampleMethod7();
+        string.exampleMethod8();
+        string.exampleMethod9();
+        string.exampleMethod10();
+        string.exampleMethod11();
+        string.exampleMethod12();
+        string.exampleMethod13();
+        string.exampleMethod14();
+        string.exampleMethod15();
+        string.exampleMethod16();
+        string.exampleMethod17();
     }
 }
