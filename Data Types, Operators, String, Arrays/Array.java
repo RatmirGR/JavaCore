@@ -1,5 +1,3 @@
-package Array.projects;
-
 import java.util.Arrays;
 
 public class Array {
