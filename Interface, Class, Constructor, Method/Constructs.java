@@ -1,5 +1,3 @@
-package Construct.projects;
-
 public class Constructs {
 
     /* 1) объявление конструктора*/
