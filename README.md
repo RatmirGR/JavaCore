@@ -13,12 +13,13 @@
   <li>Arrays</li>
 </ul>
 <br/>
-<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">Interface, Class, Constructor, Method</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">Interface, Class, Constructor, Method, Enum</a></p>
 <ul>
   <li>Interface</li>
   <li>Class</li>
   <li>Constructor</li>
   <li>Method</li>
+  <li>Enum</li>
 </ul>
 <br/>
 
