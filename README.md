@@ -79,7 +79,6 @@
 <br/>
 <p> - <a href="">GPU, Event Handling</a></p>
 <ul>
-  <li>GPU</li>
   <li>Event Handling</li>
   <li>AWT</li>
   <li>Swing</li>
