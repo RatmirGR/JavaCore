@@ -77,28 +77,6 @@
   <li>Map</li>
 </ul>
 <br/>
-<p> - <a href="">Collections</a></p>
-<ul>
-  <li>Collection</li>
-  <li>List</li>
-  <li>Set</li>
-  <li>SortedSet</li>
-  <li>NavigableSet</li>
-  <li>Queue</li>
-  <li>Dequeue</li>
-  <li>--------</li>
-  <li>ArrayList</li>
-  <li>LinkedList</li>
-  <li>HashSet</li>
-  <li>LinkedHashSet</li>
-  <li>TreeSet</li>
-  <li>PriorityQueue</li>
-  <li>ArrayDeque</li>
-  <li>EnumSet</li>
-  <li>--------</li>
-  <li>Map</li>
-</ul>
-<br/>
 <p> - <a href="">GPU, Event Handling</a></p>
 <ul>
   <li>GPU</li>
