@@ -27,6 +27,13 @@
   <li>StringBuffer</li>
   <li>StringBuilder</li>
 </ul>
+<br/>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">Generics, Lamba Expressions, Modules</a></p>
+<ul>
+  <li>Generics</li>
+  <li>Lamba Expressions</li>
+  <li>Modules</li>
+</ul>
 
 <!-- <p> - <a href="https://github.com/RatmirW/">Data types, variables, arrays, and operators</a></p>
 <p> - <a href="https://github.com/RatmirW/">Operations</a></p>
