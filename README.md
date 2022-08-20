@@ -28,11 +28,11 @@
   <li>StringBuilder</li>
 </ul>
 <br/>
-<p> - <a href="">I/O, Try-with-Resources, Exception Handling</a></p>
+<p> - <a href="">Streams I/O, Try-with-Resources, Exception Handling</a></p>
 <ul>
-  <li>Generics</li>
-  <li>Lamba Expressions</li>
-  <li>Modules</li>
+  <li>Streams I/O</li>
+  <li>Try-with-Resources</li>
+  <li>Exception Handling</li>
 </ul>
 <br/>
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Interface%2C%20Class%2C%20Constructor%2C%20Method">Generics, Lamba Expressions, Modules</a></p>
