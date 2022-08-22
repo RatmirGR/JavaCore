@@ -1111,7 +1111,7 @@ class ExStoreAndLoadV2{
 
 /*---------------------------------------------------------------------*/
 
-public class ExCollections {
+public class Collection {
 
     public static void main(String[] args) {
         new ExArrayList1().method(); System.out.println("----------------------");
