@@ -41,7 +41,7 @@
   <li>Stream API</li>
 </ul>
 <br/>
-<p> - <a href="">Generics, Lamba Expressions, Modules, Annotations, Date</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Generics%2C%20Lamba%20Expressions%2C%20Modules%2C%20Annotations%2C%20Date">Generics, Lamba Expressions, Modules, Annotations, Date</a></p>
 <ul>
   <li>Generics</li>
   <li>Lamba Expressions</li>
@@ -56,7 +56,7 @@
   <li>Servlets</li>
 </ul>
 <br/>
-<p> - <a href="">Collections</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Collections">Collections</a></p>
 <ul>
   <li>Collection</li>
   <li>List</li>
