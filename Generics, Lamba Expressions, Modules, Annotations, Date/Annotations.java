@@ -642,20 +642,20 @@ class ExClass22{
 
 public class Annotations {
     public static void main(String[] args) {
-        new ExClass1().method();
-        new ExClass2().method();
-        new ExClass3().method();
-        new ExClass4().method();
-        new ExClass5().method();
-        new ExClass6().method();
-        new ExClass7().method();
-        new ExClass8().method();
-        new ExClass9().method();
-        new ExClass12().method();
-        new ExClass13().method();
-        new ExClass15().method();
-        new ExClass21().method();
-        new ExClass22().method();
+        new ExClass1().method(); System.out.println("----------------------");
+        new ExClass2().method(); System.out.println("----------------------");
+        new ExClass3().method(); System.out.println("----------------------");
+        new ExClass4().method(); System.out.println("----------------------");
+        new ExClass5().method(); System.out.println("----------------------");
+        new ExClass6().method(); System.out.println("----------------------");
+        new ExClass7().method(); System.out.println("----------------------");
+        new ExClass8().method(); System.out.println("----------------------");
+        new ExClass9().method(); System.out.println("----------------------");
+        new ExClass12().method(); System.out.println("----------------------");
+        new ExClass13().method(); System.out.println("----------------------");
+        new ExClass15().method(); System.out.println("----------------------");
+        new ExClass21().method(); System.out.println("----------------------");
+        new ExClass22().method(); System.out.println("----------------------");
 
     }
 }
