@@ -306,7 +306,7 @@ class SomeCollectionAlgorithms{
 
 /*---------------------------------------------------------------------*/
 
-public class List {
+public class ListExample {
     public static void main(String[] args) {
         new ExArrayList1().method(); System.out.println("---------------------");
         new ExArrayList2().method(); System.out.println("---------------------");
