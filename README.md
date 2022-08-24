@@ -28,7 +28,7 @@
   <li>StringBuilder</li>
 </ul>
 <br/>
-<p> - <a href="">Streams I/O, Try-with-Resources, Exception Handling, Multithreading</a></p>
+<p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Streams%20I:O%2C%20Try-with-Resources%2C%20Exception%20Handling%2C%20Multithreading">Streams I/O, Try-with-Resources, Exception Handling, Multithreading</a></p>
 <ul>
   <li>Stream Basics</li>
   <li>NIO</li>
@@ -58,14 +58,12 @@
 <br/>
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Collections">Collections</a></p>
 <ul>
-  <li>Collection</li>
   <li>List</li>
   <li>Set</li>
   <li>SortedSet</li>
   <li>NavigableSet</li>
   <li>Queue</li>
   <li>Dequeue</li>
-  <li>--------</li>
   <li>ArrayList</li>
   <li>LinkedList</li>
   <li>HashSet</li>
@@ -74,7 +72,6 @@
   <li>PriorityQueue</li>
   <li>ArrayDeque</li>
   <li>EnumSet</li>
-  <li>--------</li>
   <li>Map</li>
 </ul>
 <br/>
