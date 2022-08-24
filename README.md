@@ -74,11 +74,11 @@
   <li>EnumSet</li>
   <li>Map</li>
 </ul>
-<br/>
+<!--<br/>
 <p> - <a href="">GPU, Event Handling</a></p>
 <ul>
   <li>Event Handling</li>
   <li>AWT</li>
   <li>Swing</li>
   <li>JavaFX</li>
-</ul>
+</ul>-->

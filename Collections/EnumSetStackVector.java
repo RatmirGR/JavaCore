@@ -159,7 +159,7 @@ class ExStackV2{
         System.out.print("- pop -> ");
         Integer a = stack.pop();
         System.out.println(a);
-        System.out.println("- стек: "+ stack);
+        System.out.println("- стек: " + stack);
     }
 
     void method(){
