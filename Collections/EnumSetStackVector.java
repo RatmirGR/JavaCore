@@ -69,59 +69,6 @@ class ExVectorAndEnum {
 
 /*---------------------------------------------------------------------*/
 
-/* пример использования класса Hashtable*/
-class ExHashtable{
-
-    void method(){
-        System.out.println("Использование класса Hashtable");
-
-        /* создание хеш-таблицы*/
-        Hashtable<String, Double> hashtab = new Hashtable<>();
-
-        /* введение элементов в хеш-таблицу*/
-        hashtab.put("name1 lastname1", 34.0);
-        hashtab.put("name2 lastname2", 11.0);
-        hashtab.put("name3 lastname3", 25.0);
-        hashtab.put("name4 lastname4", -47.0);
-        hashtab.put("name5 lastname5", 52.0);
-
-        System.out.println("- использование Enumeration");
-
-        /* получение перечисления ключей из хеш-таблицы*/
-        Enumeration<String> names = hashtab.keys();
-        while(names.hasMoreElements()){
-            String str = names.nextElement();
-            System.out.println("- "+str + ": "+hashtab.get(str));
-        }
-
-        /* внесение суммы 100 на счет name2 lastname2*/
-        double balance = hashtab.get("name2 lastname2");
-        hashtab.put("name2 lastname2", balance + 100);
-        System.out.println("- новый остаток на счете name2 lastname2: "+hashtab.get("name2 lastname2"));
-        System.out.println();
-
-        /* переделанный фрагмент*/
-        System.out.println("- использование Iterator");
-
-        /* получение представления всех ключей из хеш-таблицы в виде множества*/
-        Set<String> set = hashtab.keySet();
-
-        /* получение итератора*/
-        Iterator<String> itr = set.iterator();
-        while(itr.hasNext()){
-            String str = itr.next();
-            System.out.println("- "+str + ": " + hashtab.get(str));
-        }
-
-        /* внесение суммы 100 на счет name2 lastname2*/
-        balance = hashtab.get("name2 lastname2");
-        hashtab.put("name2 lastname2", balance + 100);
-        System.out.println("- новый остаток на счете name2 lastname2: "+hashtab.get("name2 lastname2"));
-    }
-}
-
-/*---------------------------------------------------------------------*/
-
 /* пример использования класса Stack*/
 class ExStackV1{
     private static <E> void methodPush(Stack<E> stack, E a){
@@ -159,7 +106,7 @@ class ExStackV2{
         System.out.print("- pop -> ");
         Integer a = stack.pop();
         System.out.println(a);
-        System.out.println("- стек: " + stack);
+        System.out.println("- стек: "+ stack);
     }
 
     void method(){
@@ -187,7 +134,6 @@ public class EnumSetStackVector {
     public static void main(String[] args) {
         new ExEnumSet().method(); System.out.println("---------------------");
         new ExVectorAndEnum().method(); System.out.println("---------------------");
-        new ExHashtable().method(); System.out.println("---------------------");
         new ExStackV1().method(); System.out.println("---------------------");
         new ExStackV2().method(); System.out.println("---------------------");
     }
