@@ -58,7 +58,6 @@
 <br/>
 <p> - <a href="https://github.com/RatmirW/JavaCore/tree/main/Collections">Collections</a></p>
 <ul>
-  <li>Collection</li>
   <li>List</li>
   <li>Set</li>
   <li>SortedSet</li>
