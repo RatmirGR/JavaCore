@@ -64,7 +64,6 @@
   <li>NavigableSet</li>
   <li>Queue</li>
   <li>Dequeue</li>
-  <li>--------</li>
   <li>ArrayList</li>
   <li>LinkedList</li>
   <li>HashSet</li>
@@ -73,7 +72,6 @@
   <li>PriorityQueue</li>
   <li>ArrayDeque</li>
   <li>EnumSet</li>
-  <li>--------</li>
   <li>Map</li>
 </ul>
 <br/>
